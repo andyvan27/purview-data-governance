@@ -13,6 +13,7 @@
 - [Use Azure Data Factory for lineage](#use-azure-data-factory-for-lineage)
 - [Register ADF](#register-adf)
 - [Produce lineage](#produce-lineage)
+- [View Data governance reports](#view-data-governance-reports)
 
 ## Overview
 Steps to play with Microsoft Purview Data Governance (Domain driven)
@@ -118,3 +119,8 @@ Steps to play with Microsoft Purview Data Governance (Domain driven)
 - Go to Unified Catalog | Discovery | Data assets, search for `customers.csv` and open it
 - Go to Lineage tab
 ![](images/README-2026-02-04-12-19-54.png)
+- View in Data product
+![](images/README-2026-02-04-13-06-28.png)
+
+## View Data governance reports
+![](images/README-2026-02-04-13-03-41.png)
